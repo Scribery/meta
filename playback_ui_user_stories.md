@@ -150,6 +150,15 @@ I want to be able to:
    * If the session was idle for several hours I do not want to sit and watch
      it for these hours. I want to be able to jump to a couple seconds ahead
      of time when next burst of activity started to happen.
+* Reach the playback controls in the same place at all times during playback,
+  and see the whole of the terminal, no matter how the recorded terminal was
+  resized. Have the output terminal resized to fit and centered at all times,
+  with aspect ratio preserved and edges clearly visible.
+
+  ![examples of fitting different output terminal sizes](playback_ui_user_stories/resize_fit.png)
+* Use screen space efficiently, if need be, and make the playback area
+  occupy as much of the page as possible, or even the whole screen, as an
+  option.
 
 Log Correlator
 --------------
