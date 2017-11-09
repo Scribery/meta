@@ -159,6 +159,12 @@ I want to be able to:
 * Use screen space efficiently, if need be, and make the playback area
   occupy as much of the page as possible, or even the whole screen, as an
   option.
+* Change output terminal zoom level, with ability to scroll/pan about, to be
+  able to see details in a recording of a big terminal in a small playback
+  area. E.g. when playing back a recording of a big monitor on a laptop
+  screen.
+
+  ![example of a zoomed-in output terminal](playback_ui_user_stories/zoom_scroll.png)
 
 Log Correlator
 --------------
