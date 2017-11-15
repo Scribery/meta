@@ -4,6 +4,7 @@ User Stories for Session Recording Playback
 Present document describes user stories related to playback functionality of
 the recorded sessions stored on a local host or streamed into Elastic as part
 of Red Hat common logging solution.
+See also [general user stories](user_stories.md).
 
 Session navigation
 ------------------
